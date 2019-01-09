@@ -8,3 +8,11 @@
   
   接收端：java -jar receive [保存路径]  
   ![receive](https://github.com/Mrhs121/Cross-platform-FileTransfer/blob/master/屏幕快照%202019-01-09%20下午12.14.26.png)
+  
+  ====  
+feature
+-
+* IO改为NIO
+* 加入多线程同时接收多个文件  
+
+  
