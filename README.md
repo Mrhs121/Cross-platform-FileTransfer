@@ -1,5 +1,5 @@
 # Cross-platform-FileTransfer
-跨平台文件传输工具  
+跨平台局域网文件传输工具  
 
 使用方法：  
 -
